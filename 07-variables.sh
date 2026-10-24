@@ -15,3 +15,7 @@ echo "Number of args passed to the script: $#"
 echo "Firsh=t variable passed: $1"
 echo "Script name is : $0"
 echo "realpath: $(realpath $0)"
+echo "Who is running current script: $USER"
+echo "Directory of the current script: $PWD"
+echo "Home directory of the current user: $HOME"
+echo "PID of the current script: $$
