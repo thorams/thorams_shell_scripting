@@ -14,4 +14,4 @@ echo "All args passed to the script as word: $*"
 echo "Number of args passed to the script: $#"
 echo "Firsh=t variable passed: $1"
 echo "Script name is : $0"
-echo "realpath: $(realpath $0)
+echo "realpath: $(realpath $0)"
