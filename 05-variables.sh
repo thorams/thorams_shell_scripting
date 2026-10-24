@@ -2,10 +2,12 @@
 
 
 start_time=$(date +%s)
-End_time=$(date +%s)
+
 echo "script execution start time: $start_time"
 
 sleep 10
+
+End_time=$(date +%s)
 
 echo "script execution end time: $End_time"
 
