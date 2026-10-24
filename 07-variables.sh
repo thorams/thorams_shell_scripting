@@ -12,3 +12,6 @@ echo "$1:: I am good too $2. Thanks for asking"
 echo "All args passed to script: $@"
 echo "All args passed to the script as word: $*"
 echo "Number of args passed to the script: $#"
+echo "Firsh=t variable passed: $1"
+echo "Script name is : $0"
+echo "realpath: $(realpath $0)
