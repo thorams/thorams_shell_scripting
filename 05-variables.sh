@@ -2,7 +2,7 @@
 
 
 start_time=$(date +%s)
-
+End_time=$(date +%s)
 echo "script execution start time: $start_time"
 
 sleep 10
