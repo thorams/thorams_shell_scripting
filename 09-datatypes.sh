@@ -15,7 +15,7 @@ count=count+1
 echo "count is : $count"
 
 
-FRUITS=("apple" "banana" "pappaya") # This is called as array
+fruits=("apple" "banana" "pappaya") # This is called as array
 echo "All fruits: ${fruits[@]}"
 echo "First fruit: ${fruits[1]}"
 
