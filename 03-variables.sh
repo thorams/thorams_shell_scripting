@@ -2,6 +2,6 @@
 
 person1=shiva
 person2=sunitha
-echo "$1:: Hi, $2. How are you?"
-echo "$2:: Hello $1. I am good. How about you?"
-echo "$1:: I am good too $2. Thanks for asking"
+echo "$person1:: Hi, $person2. How are you?"
+echo "$2person2:: Hello $person1. I am good. How about you?"
+echo "$person1:: I am good too $person2. Thanks for asking"
